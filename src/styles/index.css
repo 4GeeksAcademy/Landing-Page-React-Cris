@@ -9,3 +9,15 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+.footer-copy{
+    border: solid red 2px;
+    height: 6.5rem;
+    color: white;
+    margin-bottom: 0;
+    border: 0 auto;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
